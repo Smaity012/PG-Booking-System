@@ -64,4 +64,4 @@ If you have any questions, feel free to reach out to [Sourav Maity](mailto:maity
 ## Credits
 
 - Built with [Django](https://www.djangoproject.com/) and [Bootstrap 4](https://getbootstrap.com/).
-- Thanks to [Contributor Name] for their contributions.
+- Thanks to Sourav , Prabal , Arghya for their contributions.
